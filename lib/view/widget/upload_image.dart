@@ -73,7 +73,7 @@ class _ImagePickerWidgetState extends State<ImagePickerWidget>
           onPressed: pickImage,
           icon: const Icon(Icons.camera_alt),
           label: const Text(
-            "Take Photo",
+            "Take a Photo",
             style: TextStyle(fontSize: 20, color: Colors.white),
           ),
           style: ElevatedButton.styleFrom(

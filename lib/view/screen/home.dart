@@ -31,7 +31,7 @@ class _HomeState extends State<Home> {
           mainAxisAlignment: MainAxisAlignment.start,
           children: [
             Text(
-              "take or upload an image of your plant",
+              "take and upload an image of your plant",
               style: TextStyle(fontSize: 25, fontWeight: FontWeight.bold),
             ),
             SizedBox(height: 40),
